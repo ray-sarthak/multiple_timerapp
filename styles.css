@@ -1,0 +1,46 @@
+html{
+    background-color: #39393E;
+}
+.display{
+    background-color: #34344A;
+    display: flex;
+    border-radius:25px;
+    width:50%
+    
+
+}
+.inputt{
+    background-color:#34344A ;
+    border: none;
+    outline: none;
+    color:#F0F757
+    
+
+}
+.displayy{
+    background-color: #34344A;
+    color:#F0F757;
+    justify-content: space-between;
+    width: 50%;
+    border-radius: 15px;
+    margin-bottom: 2vh;
+   
+}
+::placeholder {
+    color:white;
+    opacity: 1; /* Firefox */
+  }
+  
+#btn{
+    color:black;
+    background-color: #F0F757;
+    border: none;
+    border-radius: 10px;
+    width: 5vw;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
